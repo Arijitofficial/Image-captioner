@@ -4,7 +4,7 @@ from gradio_client import Client
 import os
 
 client = Client("https://arijit-hazra-my-image-captioner.hf.space/")
-UPLOAD_FOLDER = 'static/uploads/'
+UPLOAD_FOLDER = 'serverside_files/uploads/'
 
 app = Flask(__name__)
 app.secret_key = "suprrrrrrr secret key"
