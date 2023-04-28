@@ -1,0 +1,2 @@
+model_checkpoint_path: "captioner_weights"
+all_model_checkpoint_paths: "captioner_weights"

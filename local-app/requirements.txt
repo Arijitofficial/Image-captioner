@@ -1,0 +1,7 @@
+einops
+Flask
+numpy
+opencv-python
+tensorflow
+tqdm
+gunicorn
